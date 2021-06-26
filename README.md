@@ -3,10 +3,10 @@ A set of Notebooks to write simple and efficient Machine Learning algorithms usi
 
 ### Algorithms
 
-✅ Linear Regression \
-✅ Logistic Regression \
-✅ KNN \
-✅ KMeans \
+⭐ Linear Regression \
+⭐ Logistic Regression \
+⭐ KNN \
+⭐ KMeans \
 🚀 Naive Bayes \
 🚀 SVM \
 🚀 Decision Tree \
