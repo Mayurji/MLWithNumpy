@@ -7,7 +7,7 @@ A set of Notebooks to write simple and efficient Machine Learning algorithms usi
 ⭐ Logistic Regression \
 ⭐ KNN \
 ⭐ KMeans \
-🚀 Naive Bayes \
+⭐ Naive Bayes \
 🚀 SVM \
 🚀 Decision Tree \
 🚀 Adaboost \
