@@ -9,7 +9,7 @@ A set of Notebooks to write simple and efficient Machine Learning algorithms usi
 ⭐ KMeans \
 ⭐ Naive Bayes \
 ⭐ SVM \
-🚀 Decision Tree \
+⭐ Decision Tree \
 🚀 Adaboost \
 🚀 PCA \
 🚀 LDA 
