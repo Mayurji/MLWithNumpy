@@ -11,5 +11,5 @@ A set of Notebooks to write simple and efficient Machine Learning algorithms usi
 ⭐ SVM \
 ⭐ Decision Tree \
 ⭐ Adaboost \
-🚀 PCA \
+⭐ PCA \
 🚀 LDA 
