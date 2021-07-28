@@ -12,4 +12,4 @@ A set of Notebooks to write simple and efficient Machine Learning algorithms usi
 ⭐ Decision Tree \
 ⭐ Adaboost \
 ⭐ PCA \
-🚀 LDA 
+⭐ LDA 
